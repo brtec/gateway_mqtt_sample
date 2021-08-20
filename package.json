@@ -1,0 +1,23 @@
+{
+  "name": "gateway_mqtt_sample",
+  "version": "1.0.0",
+  "description": "MQTT Client for WOrkshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brtec/gateway_mqtt_sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brtec/gateway_mqtt_sample/issues"
+  },
+  "homepage": "https://github.com/brtec/gateway_mqtt_sample#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mqtt": "^4.2.8"
+  }
+}
